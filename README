@@ -1,0 +1,11 @@
+naamagl, shimmy10
+Naama Glazer(307880971), Shimon Balsam (204693352)
+EX: 3
+
+FILES:
+MapReduceFramework.cpp - Implements given MapReduceFramework.h.
+Barrier.h - header file of given barrier.
+Barrier.cpp - Implements Barrier.h.
+Makefile - make, compiles code and generates MapReduceFramework.a library.
+README - This file.
+
